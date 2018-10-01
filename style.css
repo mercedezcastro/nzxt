@@ -1,0 +1,41 @@
+/* TOP MENU */
+.ui.borderless.top.menu {
+  background-color: white;
+  border: none;
+  box-shadow: none;
+}
+
+.ui.mini.borderless.top.menu a.item:hover,
+.ui.top.container .item:hover {
+  background-color: #51007a;
+  color: white;
+}
+
+.ui.top.container .item{
+  color: #51007a;
+  padding-top: 1px;
+
+}
+
+
+/* SECOND MENU */
+.ui.borderless.menu {
+  background-color: #51007a;
+  border: none;
+  box-shadow: none;
+  border-radius: 0;
+  margin: 0;
+}
+
+.ui.borderless.menu a.item:hover,
+.ui.container .item:hover {
+  background-color: black;
+  color: white;
+}
+
+.ui.tt.container .item{
+  color: white;
+  letter-spacing: 2px;
+}
+
+
