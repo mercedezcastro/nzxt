@@ -44,7 +44,30 @@
   height: 700px;
   padding-top: 100px;
   padding-bottom: 30px;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
+
 }
+
+.purple-background h1 {
+  font-weight: lighter;
+  font-size: 35px;
+}
+
+.large.ui.white.button a{
+  color: #51007a;
+  font-weight: lighter;
+}
+
+.large.ui.inverted.button a:hover{
+  color: #51007a;
+  font-weight: lighter;
+}
+
+.large.ui.inverted.button a{
+  color: white;
+  font-weight: lighter;
+}
+
+
 
 
