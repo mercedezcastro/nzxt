@@ -17,7 +17,6 @@
 
 }
 
-
 /* SECOND MENU */
 .ui.borderless.menu {
   background-color: #51007a;
@@ -36,6 +35,16 @@
 .ui.tt.container .item{
   color: white;
   letter-spacing: 2px;
+}
+
+/* FIRST SPLASH */
+.purple-background {
+  background-color: #51007a;
+  color: white;
+  height: 700px;
+  padding-top: 100px;
+  padding-bottom: 30px;
+  letter-spacing: 1px;
 }
 
 
