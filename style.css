@@ -68,6 +68,25 @@
   font-weight: lighter;
 }
 
+.black-background {
+  background-color: #000000;
+  color: WHITE;
+  height: 200px;
+  line-height: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
 
+.black-background a {
+  color: #af4baf;
+}
+
+.black-background a.blue {
+  color: #4288dc;
+}
+
+.black-background a.green {
+  color: #3c9c9a;
+}
 
 
